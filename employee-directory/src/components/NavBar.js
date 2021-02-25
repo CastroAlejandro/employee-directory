@@ -1,8 +1,8 @@
 
 const NavBar = () => {
 	return (
-		<table class="table table-hover">
-  <thead class="thead-light">
+		<table class="table table-hover text-center">
+  <thead class="thead-dark">
     <tr>
       <th scope="col">#</th>
       <th scope="col">First</th>
