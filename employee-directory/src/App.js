@@ -1,6 +1,5 @@
 import './App.css';
 import Wrapper from "./Components/Wrapper";
-import Main from "./Components/Main"
 import Header from "./Components/Header"
 
 function App() {
@@ -8,7 +7,6 @@ function App() {
     <div className="class">
 		<Wrapper>
 			<Header/>
-			<Main/>
 		</Wrapper>
 	</div>
   );
